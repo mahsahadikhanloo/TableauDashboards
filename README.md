@@ -2,7 +2,8 @@
 
 ## Airbnb Seattle 2023
 
-<image src="/resources/tableau/tableau_2023_seattle.jpg" />
+<image src="/resources/tableau_2023_seattle.jpg" />
+
 ### Description
 The Tableau project for Airbnb in Seattle in 2023 reveals interesting insights into the pricing trends for Airbnb listings in the area. One key observation is that the average price of listings is almost steady throughout the year, with the exception of an increase in July.
 
