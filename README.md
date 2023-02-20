@@ -16,6 +16,7 @@ We can see that the number of entire home or apartments is far higher than that 
 
 In conclusion, the Tableau project for Airbnb in Seattle in 2023 shows that while the average price of listings is relatively steady throughout the year, there is a noticeable increase in July likely due to peak tourist season. Additionally, the comparison between different room types reveals that entire apartments are generally more expensive than private or shared rooms. These insights can be valuable for hosts looking to optimize their pricing strategies and for travelers looking to budget for their accommodations in Seattle.
 
+[Dashboard in Tableau Public](https://public.tableau.com/views/AirbnbSeattle2023/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 ## Airbnb Seattle 2016
@@ -35,5 +36,5 @@ Also we can see an ever-increasing trend for the revenue in year 2016. Regardles
 
 In conclusion, the Airbnb data for 2016 shows a clear trend of increasing average price as the bedrooms increase in size and luxury. This information can be useful for hosts to determine the optimal listing price for their space, and for travelers to budget accordingly for their accommodations.
 
-https://public.tableau.com/views/AirbnbSeattle2023/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link 
+[Dashboard in Tableau Public](https://public.tableau.com/views/AirbnbSeattle2016_16764806666690/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
