@@ -26,3 +26,5 @@ Answers based on survey:
 4. 52% of data analysts found it easy to break into a data analyst role while 48% found it difficult. It seems we have a pretty divided opinion.
 5. It appears data scientists and data architects have the highest salary satisfaction with a rating of 5.60/10. 
 6. Favorite programming language was python!
+
+[Dashboard in Tableau Public](https://public.tableau.com/app/profile/mahsa.hadikhanloo/viz/CovidDashboard_16769098459150/Dashboard1)
